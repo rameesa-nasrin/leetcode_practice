@@ -13,4 +13,3 @@ while len(arr)<len(nums):
     arr.append(0)
 
 print(arr)
-
